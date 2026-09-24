@@ -295,5 +295,14 @@ font-weight: 700;
 /* FOOTER */
 
 footer {
-  background-color: black;
+  background-color: #242424;
+}
+
+.footer__row {
+  padding: 8% 0;
+}
+
+.footer__logo--img {
+  width: 140px;
+  height: 140px;
 }
