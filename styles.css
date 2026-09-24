@@ -291,3 +291,9 @@ font-weight: 700;
   text-align: left;
   color: #fff;
 }
+
+/* FOOTER */
+
+footer {
+  background-color: black;
+}
